@@ -12,7 +12,7 @@
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan Tic Tac Toe](https://via.placeholder.com/800x400?text=Tampilan+Tic+Tac+Toe)
+![Tampilan Tic Tac Toe]((https://github.com/aidilprmdta/TicTactoe/blob/main/image.png?raw=true))
 
 *Ganti placeholder di atas dengan screenshot aplikasi asli.*
 
